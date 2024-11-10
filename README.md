@@ -4,7 +4,7 @@ Este repositório contém o backend para o cadastro de restaurantes do aplicativ
 
 ## Descrição
 
-O objetivo do **EATIFY** é oferecer uma plataforma prática e acessível para entrega de alimentos. Este backend é responsável por gerenciar o cadastro dos restaurantes, incluindo informações como nome, localização, horário de funcionamento, cardápio, entre outros dados relevantes. Este projeto foi desenvolvido em Python e utiliza várias práticas de programação para garantir escalabilidade e eficiência.
+O objetivo do **EATIFY** é oferecer uma plataforma prática e acessível para entrega de alimentos. Este backend é responsável por gerenciar o cadastro dos restaurantes, iEste projeto foi desenvolvido em Python e utiliza várias práticas de programação para garantir escalabilidade e eficiência.
 
 ## Tecnologias Utilizadas
 
